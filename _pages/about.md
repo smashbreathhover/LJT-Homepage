@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate in the [HKUST NLP Group](https://github.com/Vicent0205). I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning, with interests in LLM reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability.
+I am a first-year PhD candidate in the HKUST NLP Group. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning, with interests in LLM reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability.
 
 ## Personal Details
 

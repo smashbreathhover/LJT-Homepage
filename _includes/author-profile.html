@@ -7,7 +7,7 @@
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
-  {% if author.avatar %}
+  {% if author.avatar != "" %}
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
       <img src="{{ author.avatar }}" alt="{{ author.name }}" fetchpriority="high" />
